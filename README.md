@@ -36,3 +36,15 @@ Through this project, I learned:
 
 ## Author
 Simran Dhiwar
+
+## screenshots
+
+### weak password example
+![weak password](screenshots/weak password.png)
+
+### medium password example
+![medium password](screenshots/medium password.png)
+
+### strong password example
+![strong password](screenshots/strong password.png)
+
